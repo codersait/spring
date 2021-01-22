@@ -4,4 +4,7 @@
   - -p: port
   - -U: username
   - test-> database name
-- `\c test`  
+- Second way
+  - `psql'
+  - `\l`
+  -  `\c test` test->database name
