@@ -4,3 +4,4 @@
   - -p: port
   - -U: username
   - test-> database name
+- `\c test`  
