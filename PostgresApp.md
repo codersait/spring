@@ -5,6 +5,6 @@
   - -U: username
   - test-> database name
 - Second way
-  - `psql'
+  - `psql`
   - `\l`
   -  `\c test` test->database name
