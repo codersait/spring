@@ -8,3 +8,4 @@
   - `psql`
   - `\l`
   -  `\c test` test->database name
+- Clear the terminal `ctrl + l`
