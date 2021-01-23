@@ -6,3 +6,5 @@
   - `docker images`
   - `docker exec -it postgres-0 bash`
   - `psql -U postgres`
+  - `psql -h localhost -p 5432 -U postgres`
+  - `create extension if not exists "uuid-ossp";`
