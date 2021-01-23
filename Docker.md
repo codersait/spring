@@ -8,3 +8,4 @@
   - `psql -U postgres`
   - `psql -h localhost -p 5432 -U postgres`
   - `create extension if not exists "uuid-ossp";`
+  - `docker stop containerID`
